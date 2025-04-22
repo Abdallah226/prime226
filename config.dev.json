@@ -17,18 +17,18 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61557780285734",
+    "61563580892213",
     "",
     "",
     "",
     ""
   ],
   "GOD": [
-    "61557780285734",
+    "61563580892213",
     ""
   ],
   "DEV": [
-    "61557780285734",
+    "61563580892213",
     ""
   ],
   "whiteListMode": {
@@ -36,10 +36,10 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𓆩𝙀𝙇𝙄𝙏𝙀 𝙀𝙁-𝙋𝙍𝙄𝙈𝙀 ",
+  "nickNameBot": "𓆩 𝐨𝐛𝐭𝐢𝐦𝐮𝐬 𝐩𝐫𝐢𝐦𝐞 ",
   "authorName": "Frank kaumba",
-  "authorFB": "https://www.facebook.com/profile.php?id=61557780285734",
-  "authorEmail": "efkidgamer@gmail.com",
+  "authorFB": "https://www.facebook.com/profile.php?id=61563580892213",
+  "authorEmail": "limuleackerman@gmail.com",
   "prefix": "/",
   "database": {
     "type": "sqlite",
